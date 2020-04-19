@@ -1,0 +1,23 @@
+<div class="product" *ngFor="let product of products">
+    <div class="left">
+        <img [src]="product.imageURL" alt="">
+        <p class="offer" *ngIf="product.offerText">{{product.offerText}}%</p>
+    </div>
+    <div class="right">
+        <div class="content">
+            <div class="brand-name">{{product.brandName}}</div>
+            <div class="product-name">{{product.productName}}</div>
+            <div class="quantity">{{product.quantity}}</div>
+            <div class="mrp">MRP {{product.mrp}}</div>
+            <div class="price">Rs {{product.price}}</div>
+        </div>
+        <div class="button-group">
+            <div class="cart">
+                <button class="cart-button" (click)="addToCart(product)">ADD CART</button>
+            </div>
+            <div class="count">
+                <app-count [selectedCount]="product.selectedCount" (valueChange)="countChange($event,product)"></app-count>
+            </div>
+        </div>
+    </div>
+</div>
