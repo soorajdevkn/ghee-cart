@@ -1,6 +1,6 @@
-#Demo
+# Demo
 
-Please check the demo [Here](https://soorajdevkn.github.io/ghee-cart/dist/mobiotics/)`
+Please check the demo [Here](https://soorajdevkn.github.io/ghee-cart/dist/mobiotics/)
 
 # Mobiotics
 
