@@ -1,0 +1,92 @@
+[
+    {
+        "brandName":"Milkfood",
+        "productName":"Milkfood Rich Desi Danerdar Ghee(Cartoon)",
+        "quantity":"1l",
+        "price":408,
+        "mrp":498,
+        "imageURL":"https://4.imimg.com/data4/SF/EN/ANDROID-68205725/product-250x250.jpeg",
+        "offerText":18
+    },
+    {
+        "brandName":"Grofers Mother's Choice",
+        "productName":"Grofers Mother's Choice Desi Ghee",
+        "quantity":"1l",
+        "price":414,
+        "mrp":450,
+        "imageURL":"https://cdn.grofers.com/app/images/products/normal/pro_391299.jpg?ts=1575012667",
+        "offerText":8
+    },
+    {
+        "brandName":"Amul",
+        "productName":"Amul Pure Ghee(Carton)",
+        "quantity":"1l",
+        "price":436,
+        "mrp":460,
+        "imageURL":"https://rukminim1.flixcart.com/image/400/400/j3nbwy80/ghee/c/k/h/1000-pure-ghee-tetrapack-amul-original-imaeuz55nnzghhpr.jpeg?q=90",
+        "offerText":null
+    },
+    {
+        "brandName":"Patanjali",
+        "productName":"Saunarya Body Lotion",
+        "quantity":"1l",
+        "price":125,
+        "mrp":175,
+        "imageURL":"https://rukminim1.flixcart.com/image/352/352/j9it30w0/ghee/z/4/e/200-cow-s-box-patanjali-original-imaezawyf5ybhzdd.jpeg?q=70",
+        "offerText":null
+    },
+    {
+        "brandName":"GRB",
+        "productName":"GRB Cow Ghee ",
+        "quantity":"1l",
+        "price":563,
+        "mrp":617,
+        "imageURL":"https://rukminim1.flixcart.com/image/416/416/j4hc5u80/ghee/h/n/v/1000-ghee-pouch-grb-original-imaevdp7fzeh32cp.jpeg?q=70",
+        "offerText":8
+    },
+    {
+        "brandName":"Nandini",
+        "productName":"Nandini Pure Cow Ghee",
+        "quantity":"1l",
+        "price":225,
+        "mrp":245,
+        "imageURL":"https://rukminim1.flixcart.com/image/416/416/j752nww0/ghee/z/y/g/500-pure-pouch-nandini-original-imaeusvhvzznzzww.jpeg?q=70",
+        "offerText":8
+    },
+    {
+        "brandName":"Sri Sri",
+        "productName":"Sri Sri Tattva desi ghee ",
+        "quantity":"1l",
+        "price":1274,
+        "mrp":1300,
+        "imageURL":"https://rukminim1.flixcart.com/image/416/416/k6gsk280/ghee/u/n/2/500-desi-ghee-plastic-bottle-sri-sri-tattva-original-imafzwhfzfztznuj.jpeg?q=70",
+        "offerText":2
+    },
+    {
+        "brandName":"Vanalaya",
+        "productName":"Vanalaya Gir cow Ghee",
+        "quantity":"1l",
+        "price":480,
+        "mrp":550,
+        "imageURL":"https://rukminim1.flixcart.com/image/416/416/k547l3k0/ghee/z/g/d/200-gir-cow-glass-bottle-vanalaya-original-imafnv7gpymje5x6.jpeg?q=70",
+        "offerText":12
+    },
+    {
+        "brandName":"Jaivik Life",
+        "productName":"Jaivik Life Gauras Desi Cow A2 Ghee",
+        "quantity":"500ml",
+        "price":950,
+        "mrp":1400,
+        "imageURL":"https://rukminim1.flixcart.com/image/416/416/jyhl1u80/ghee/p/6/y/500-gauras-desi-cow-ghee-glass-bottle-jaivik-life-original-imafhsgpfgmgfszb.jpeg?q=70",
+        "offerText":32
+    },
+    {
+        "brandName":"GIRORGANIC",
+        "productName":"GIRORGANIC GIR COW GHEE ",
+        "quantity":"500ml",
+        "price":1168,
+        "mrp":1200,
+        "imageURL":"https://rukminim1.flixcart.com/image/416/416/jziqhzk0/ghee/h/e/g/500-gir-cow-ghee-500-ml-glass-bottle-girorganic-original-imafgzyryjfgnjvn.jpeg?q=70",
+        "offerText":2
+    }
+]
